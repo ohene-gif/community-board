@@ -43,6 +43,11 @@ npm run dev
 Then open:
 http://localhost:5173
 
+## Demo
+
+https://user-images.githubusercontent.com/demo-placeholder
+
+
 ## Tech Stack
 
 * React
