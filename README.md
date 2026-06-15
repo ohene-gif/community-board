@@ -1,16 +1,55 @@
-# React + Vite
+# Community Board (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This project is a simple community board built with React and Vite. It displays a collection of software engineering learning resources in a clean, responsive card layout. Each card provides a short description and a link to an external resource.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The goal of this project is to practice using React components, props, and basic styling while building a structured UI.
 
-## React Compiler
+## Theme
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Software Engineering Learning Hub — a curated list of resources for students preparing for software engineering careers.
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* [x] React application created with Vite
+* [x] Functional reusable Card component
+* [x] Props used to pass data into components
+* [x] 10 unique resource cards displayed
+* [x] Responsive grid layout
+* [x] Each card includes title, description, and external link button
+* [x] Clean and simple UI styling
+
+## Resources Included
+
+* CodePath
+* LeetCode
+* NeetCode
+* GitHub
+* MDN Web Docs
+* freeCodeCamp
+* CS50
+* GeeksforGeeks
+* HackerRank
+* Roadmap.sh
+
+## How to Run the Project
+
+```bash
+npm install
+npm run dev
+```
+
+Then open:
+http://localhost:5173
+
+## Tech Stack
+
+* React
+* Vite
+* JavaScript
+* CSS
+
+## Author
+
+Ohene Osei
